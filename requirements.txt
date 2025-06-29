@@ -1,19 +1,14 @@
-# requirements.txt
-
 # Core data handling and numerical operations
-pandas==2.2.3
-numpy==2.2.5
-scipy==1.15.3
+pandas
+numpy
+scipy
 
 # Machine learning library
-scikit-learn==1.6.1
+scikit-learn
 
 # Utility for saving/loading scikit-learn models and other Python objects
-joblib==1.4.2
-
-# Model interpretability
-shap==0.47.2
+joblib
 
 # Plotting libraries
-matplotlib==3.10.3
-seaborn==0.13.2
+matplotlib
+seaborn

@@ -1,10 +1,6 @@
 import os
 import pandas as pd
 import numpy as np
-import sys
-project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
-sys.path.insert(0, project_root)
-
 import config
 from utils import run_plink_command
 
